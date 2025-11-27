@@ -1,6 +1,6 @@
 {
-  "name": "ultra-bot-v5",
-  "version": "5.0.0",
+  "name": "ultra-bot-v6",
+  "version": "6.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
